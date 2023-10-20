@@ -1,7 +1,7 @@
 .App {
   text-align: center;
 }
-#root{
+#root {
   overflow: hidden;
 }
 
@@ -1202,4 +1202,10 @@ body {
   to {
     transform: translateY(-2000px);
   }
+}
+
+.title-logo {
+  position: absolute;
+  top: 5%;
+  left: 5%;
 }

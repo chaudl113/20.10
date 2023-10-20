@@ -56,35 +56,55 @@ function App() {
                   <div className="responsive-cell-block wk-mobile-12 wk-ipadp-10 wk-tab-8  card-container">
                     <div className="card">
                       <div className="img-box">
-                        <img className="person-img" src={img01}  alt="description of image"/>
+                        <img
+                          className="person-img"
+                          src={img01}
+                          alt="description of image"
+                        />
                       </div>
                     </div>
                   </div>
                   <div className="responsive-cell-block wk-mobile-12 wk-ipadp-10 wk-tab-8  card-container">
                     <div className="card">
                       <div className="img-box">
-                        <img className="person-img" src={img02}  alt="description of image"/>
+                        <img
+                          className="person-img"
+                          src={img02}
+                          alt="description of image"
+                        />
                       </div>
                     </div>
                   </div>
                   <div className="responsive-cell-block wk-mobile-12 wk-ipadp-10 wk-tab-8  card-container">
                     <div className="card">
                       <div className="img-box">
-                        <img className="person-img" src={img03}  alt="description of image"/>
+                        <img
+                          className="person-img"
+                          src={img03}
+                          alt="description of image"
+                        />
                       </div>
                     </div>
                   </div>
                   <div className="responsive-cell-block wk-mobile-12 wk-ipadp-10 wk-tab-8  card-container">
                     <div className="card">
                       <div className="img-box">
-                        <img className="person-img" src={img04}  alt="description of image"/>
+                        <img
+                          className="person-img"
+                          src={img04}
+                          alt="description of image"
+                        />
                       </div>
                     </div>
                   </div>
                   <div className="responsive-cell-block wk-mobile-12 wk-ipadp-10 wk-tab-8  card-container">
                     <div className="card">
                       <div className="img-box">
-                        <img className="person-img" src={img05} alt="description of image" />
+                        <img
+                          className="person-img"
+                          src={img05}
+                          alt="description of image"
+                        />
                       </div>
                     </div>
                   </div>
@@ -115,6 +135,13 @@ function App() {
             >
               <img src={button} style={{ margin: "auto", color: "white" }} />
             </Link>
+          </div>
+
+          <div className="title-logo">
+            <img
+              
+              src="https://trackify.vn/wp-content/uploads/2020/04/Trackify-White-Small-Logo.png"
+            />
           </div>
         </div>
       ),
