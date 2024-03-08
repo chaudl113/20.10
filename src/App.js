@@ -9,7 +9,7 @@ import img05 from "./assets/05.jpg";
 import img06 from "./assets/06.jpg";
 import mp3 from "./assets/nhac.mp3";
 import button from "./assets/play1.png";
-import video from "./assets/video.mp4";
+import video from "./assets/MOVIE.mp4";
 
 function App() {
   const newAudio = new Audio(mp3);
