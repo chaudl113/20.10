@@ -29,7 +29,7 @@ function App() {
               <div className="responsive-cell-block wk-tab-12 wk-mobile-12 wk-desk-6 wk-ipadp-5 content-container">
                 <div className="content-box">
                   <p className="text-blk section-head font-bold text-white text-5xl mb-0 italic">
-                    2023, 20 October
+                    2024, 20 October
                   </p>
                   <p className="text-blk section-head font-black text-white mb-0 italic text-9xl">
                     Happy
@@ -43,7 +43,7 @@ function App() {
                   </p>
 
                   <p className="text-blk section-body text-xl mt-6 text-white ">
-                    Chúc 20/10 chị/em sẽ luôn là một cô gái thân thiện, hòa
+                    Chúc 08/03 chị/em sẽ luôn là một cô gái thân thiện, hòa
                     đồng, nở nụ cười ấm áp và lạc quan với mọi người dù trong
                     bất kỳ hoàn cảnh nào. Và chúc chị/em sẽ giữ được tinh thần
                     lạc quan, ý chí kiên cường để có thể sống cuộc đời hạnh
