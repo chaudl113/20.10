@@ -29,7 +29,7 @@ function App() {
               <div className="responsive-cell-block wk-tab-12 wk-mobile-12 wk-desk-6 wk-ipadp-5 content-container">
                 <div className="content-box">
                   <p className="text-blk section-head font-bold text-white text-5xl mb-0 italic">
-                    2024, 20 October
+                    2024, 8 March
                   </p>
                   <p className="text-blk section-head font-black text-white mb-0 italic text-9xl">
                     Happy
